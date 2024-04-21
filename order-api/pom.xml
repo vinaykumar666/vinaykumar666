@@ -12,7 +12,7 @@
 	<artifactId>order-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>order-api</name>
-	<description>Kafka Consumer code</description>
+	<description>Kafka Consumer</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
